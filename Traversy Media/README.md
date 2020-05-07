@@ -4,4 +4,6 @@
 
 <h2> Check His youtube Channel, You will really love it : https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA </h2>
 
+<p>Copyright &copy; Traversy Media</p>
+
 
