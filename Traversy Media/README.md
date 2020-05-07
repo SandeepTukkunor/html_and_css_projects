@@ -1,6 +1,7 @@
-<h1> This video has the HTML and CSS files from the video "CSS crash Course for absolute beginners</h1>
+<h1> Brad Traversy </h1>
 
-<h2> Credit goes to Traversy Media </h2>
+<h2> He is one of the best content creater on youtube, provied best content for free </h2>
 
-<h2>  Watch the video here : https://www.youtube.com/watch?v=yfoY53QXEnI </h2>
-<p>Copyright &copy; Traversy Media</p>
+<h2> Check His youtube Channel, You will really love it : https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA </h2>
+
+
